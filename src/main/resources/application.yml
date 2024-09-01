@@ -1,0 +1,10 @@
+server:
+  port: 9095
+
+spring:
+  application:
+    name: TestingAdmin
+  security:
+    user:
+      name: admin
+      password: admin
